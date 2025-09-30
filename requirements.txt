@@ -1,0 +1,6 @@
+colorama>=0.4.6
+cryptography>=3.4
+requests>=2.25
+pyyaml>=5.4
+pyinstaller>=4.0
+readline>=6.2
