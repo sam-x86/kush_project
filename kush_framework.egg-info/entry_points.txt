@@ -1,2 +1,0 @@
-[console_scripts]
-kush = kush.main:main
